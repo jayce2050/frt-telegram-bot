@@ -1,0 +1,8 @@
+# Bỏ qua toàn bộ thư mục môi trường ảo
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+.env

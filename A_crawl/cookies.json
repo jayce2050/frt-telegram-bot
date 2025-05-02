@@ -1,0 +1,16 @@
+[{
+	"Host raw": "https://tailieu.frt.vn/",
+	"Name raw": "JSESSIONID",
+	"Path raw": "/",
+	"Content raw": "4DAF836EF7BFDFB4B777B93C34EE80A2",
+	"Expires": "At the end of the session",
+	"Expires raw": "0",
+	"Send for": "Encrypted connections only",
+	"Send for raw": "true",
+	"HTTP only raw": "true",
+	"SameSite raw": "no_restriction",
+	"This domain only": "Valid for host only",
+	"This domain only raw": "true",
+	"Store raw": "firefox-default",
+	"First Party Domain": ""
+}]
