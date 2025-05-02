@@ -1,0 +1,13 @@
+services:
+  - type: worker
+    name: frt-telegram-bot
+    env: python
+    buildCommand: ""
+    startCommand: python3 B_bot/bot_openai_env.py
+    envVars:
+      - key: TELEGRAM_TOKEN
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: BOT_USERNAME
+        sync: false
